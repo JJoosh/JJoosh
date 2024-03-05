@@ -6,7 +6,6 @@ Passionate about technology and programming, currently a student of computer sys
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@joshtrix_)
 
 # 💻 Languages and Tools:
-# 💻 Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%230076D6.svg?logo=amazon-dynamodb&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black) ![MacOS](https://img.shields.io/badge/macOS-%23999999.svg?logo=apple&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 
 
