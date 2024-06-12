@@ -1,4 +1,4 @@
-<h1 align="center">I'm <a href="https://github.com/SystemTrabu">Joshua Aviles<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/JJoosh">Joshua Aviles<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
 <p align="center">
