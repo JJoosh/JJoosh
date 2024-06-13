@@ -32,7 +32,6 @@
 <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
 <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="50" />
 <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="air-crack" width="50" />
-<img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="50" />
 <img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
 <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
 <img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
