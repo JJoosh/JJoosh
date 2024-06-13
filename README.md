@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=78288C&lines=Pentester;Cybersecurity+Student;Backend+Developer;Red+Team+Strategist;Technology+Innovator&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?color=78288C&lines=Pentester;Cybersecurity+Student;Backend+Developer;Red+Team&center=true&width=500&height=50">
   </a>
 </p>
 
