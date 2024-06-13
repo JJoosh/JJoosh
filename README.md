@@ -11,7 +11,7 @@
 
 # 💫 About Me: 
 > [!IMPORTANT]
-> Passionate about technology and programming, currently a student of computer systems engineering and with notable knowledge of cybersecurity with a focus on Red Teaming. Eager to learn, excel, and contribute to transformative projects. 20 years old, originally from Mexico, ready to leave my mark in the world of technology. Join me on this journey of innovation and exploration.
+> Passionate about cybersecurity and ethical hacking, with a focus on Red Teaming. Currently a computer systems engineering student, always eager to learn, excel, and contribute to transformative projects. Originally from Mexico, I am ready to make my mark in the world of technology. Join me on this journey of innovation and exploration.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joshaviles)
@@ -30,27 +30,18 @@
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
 <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="50" />
 <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
-<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="maltego" width="50" />
 <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="50" />
-<img src="https://www.kali.org/tools/crackmapexec/images/crackmapexec-logo.svg" alt="crackmapexec" width="50" />
-<img src="https://www.kali.org/tools/crunch/images/crunch-logo.svg" alt="crunch" width="50" />
 <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="air-crack" width="50" />
-<img src="https://www.kali.org/tools/tcpdump/images/tcpdump-logo.svg" alt="tcpdumpk" width="50" />
-<img src="https://www.kali.org/tools/sherlock/images/sherlock-logo.svg" alt="sherlock" width="50" />
 <img src="https://www.kali.org/tools/responder/images/responder-logo.svg" alt="responder" width="50" />
 <img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
 <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
 <img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
 <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
 <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="50" />
-<img src="https://www.kali.org/tools/bloodhound/images/bloodhound-logo.svg" alt="bloodhound" width="50" />
 <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
-<img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" alt="mimikats" width="50" />
 <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
-<img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" alt="beef" width="50" />
-<img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="ghidra" width="50" />
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/obsidian_alt_macos_bigsur_icon_189887.png" alt="obsidian" width="50" />
-<img src="https://avatars.githubusercontent.com/u/7937360?s=280&v=4" alt="x64dbg" width="50" />
+
 
 
 
